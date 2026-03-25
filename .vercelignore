@@ -1,0 +1,16 @@
+/node_modules
+/vendor
+/storage/*.key
+.env
+.env.backup
+.env.production
+/public/storage
+/public/hot
+/public/build
+composer.lock
+package-lock.json
+.phpunit.result.cache
+.phpunit.cache
+/.vscode
+/.idea
+/student_management.sql
